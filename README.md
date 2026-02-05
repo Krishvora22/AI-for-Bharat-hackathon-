@@ -105,16 +105,4 @@ Examines cross-file dependencies and architectural impact.
 - Python 3.11
 - Gemini API access
 
----
 
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/ai-code-review.git
-
-# Move into project directory
-cd ai-code-review
-
-# Install dependencies
-pip install -r requirements.txt
